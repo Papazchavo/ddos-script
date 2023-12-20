@@ -9,3 +9,5 @@
 
 > [!NOTE]
 > Bu saldırıları kesinlikle bilgisayarınızda denemeyin. Bu tip saldırılar yapılacağı zaman sizin internetiniz zarar görür bu yüzden bir saldırı çıkışlı makineye sahip olmanız gerekmektedir. Yurtdışı lokasyonu olması önemlidir.
+
+# Benzer scriptler için Stark ve fork atmanız yeterli olacaktır.
